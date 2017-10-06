@@ -1,14 +1,99 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "question": [
+    {
+      "question": "A man sold an item for Rs.6750 at a loss of 25 percent. What will be the selling price of same item if he sells it at a profit of 15 percent",
+      "answers": [
+        {
+          "answer": "Rs.10,530"
+        },
+        {
+          "answer": "Rs.9,950"
+        },
+        {
+          "answer": "Rs.10,350"
+        },
+        {
+          "answer": "Rs.11,340"
+        }
+      ],
+      "suggestions": "test suggestion",
+      "correctAnswer": "1"
+    },
+    {
+      "question": "How many such consonants are there in the above arrangement each of which is immediately followed by number but not immediately preceded by a number?",
+      "answers": [
+        {
+          "answer": "None"
+        },
+        {
+          "answer": "Two"
+        },
+        {
+          "answer": "Three"
+        },
+        {
+          "answer": "Four"
+        }
+      ],
+      "suggestions": "test suggestion",
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Which of the following is the 7th to the left of the 20th from the left end of the above arrangement?",
+      "answers": [
+        {
+          "answer": "$"
+        },
+        {
+          "answer": "1"
+        },
+        {
+          "answer": "N"
+        },
+        {
+          "answer": "2N"
+        }
+      ],
+      "suggestions": "test suggestion",
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Not like the urban schools and colleges, the schools in rural areas do not encourage the children to excel in extracurricular activities.",
+      "answers": [
+        {
+          "answer": "Rs.10,530"
+        },
+        {
+          "answer": "Rs.9,950"
+        },
+        {
+          "answer": "Rs.10,350"
+        },
+        {
+          "answer": "Rs.11,340"
+        }
+      ],
+      "suggestions": "test suggestion",
+      "correctAnswer": "1"
+    },
+    {
+      "question": "A man sold an item for Rs.6750 at a loss of 25 percent. What will be the selling price of same item if he sells it at a profit of 15 percent",
+      "answers": [
+        {
+          "answer": "Similarly to"
+        },
+        {
+          "answer": "Inspite of"
+        },
+        {
+          "answer": "Unlike"
+        },
+        {
+          "answer": "Despite"
+        }
+      ],
+      "suggestions": "test suggestion",
+      "correctAnswer": "1"
+    }
+  ]
 }
