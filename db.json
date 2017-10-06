@@ -4,16 +4,16 @@
       "question": "test-question-1",
       "answers": [
         {
-          "answer": "Rs.10,530"
+          "answer": "Rs.10530"
         },
         {
-          "answer": "Rs.9,950"
+          "answer": "Rs.9950"
         },
         {
-          "answer": "Rs.10,350"
+          "answer": "Rs.10350"
         },
         {
-          "answer": "Rs.11,340"
+          "answer": "Rs.11340"
         }
       ],
       "suggestions": "test suggestion",
@@ -61,16 +61,16 @@
       "question": "test-question-4",
       "answers": [
         {
-          "answer": "Rs.10,530"
+          "answer": "Rs.10530"
         },
         {
-          "answer": "Rs.9,950"
+          "answer": "Rs.9950"
         },
         {
-          "answer": "Rs.10,350"
+          "answer": "Rs.10350"
         },
         {
-          "answer": "Rs.11,340"
+          "answer": "Rs.11340"
         }
       ],
       "suggestions": "test suggestion",
